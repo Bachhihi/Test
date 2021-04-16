@@ -1,0 +1,18 @@
+.gamename{
+    text-align: center;
+    color:rgb(112, 228, 112);
+    text-shadow: 2px 2px rgb(21, 21, 31);
+    font-size: 50px;
+}
+.game{
+    text-align: center;
+}
+#button{
+    background-color:rgb(112, 228, 112) ;
+    width: 100px;
+    height: 40px;
+}
+#number{
+    width: 200px;
+    height: 30px;
+}
